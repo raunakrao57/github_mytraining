@@ -1,1 +1,2 @@
 this is new commit:
+i am new to this
